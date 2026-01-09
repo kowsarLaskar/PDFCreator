@@ -1,16 +1,36 @@
-# pdfcreator
+# PDF Converter – Flutter Mobile Application
 
-A new Flutter project.
+## Overview
+PDF Converter is a Flutter-based mobile application that allows users to capture images, select documents, and convert them into high-quality PDF files. The app is designed to be simple, fast, and reliable, making it suitable for everyday document scanning and sharing needs.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
+- Capture images using the device camera
+- Select images or documents from device storage
+- Convert multiple images/documents into a single PDF
+- Crop and adjust images before PDF generation
+- Save generated PDFs locally
+- Share PDFs with other applications
+- Clean and user-friendly interface
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Use Cases
+- Scanning handwritten notes
+- Converting documents into PDFs
+- Creating PDFs for sharing or printing
+- Digital document management
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Tech Stack
+- **Flutter**
+- **Dart**
+- Camera & File Picker plugins
+- PDF generation libraries
+
+---
+
+## Project Structure
+
